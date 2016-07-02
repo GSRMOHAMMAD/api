@@ -3,15 +3,15 @@ return {
 	version = '3.1', -- /aupdate for v3.1
 	testing_mode = false,
 	admin = {
-		owner = 23646077,
+		owner = 90516804,
 		admins = {
-			[141956218] = true,
-			[23646077] = true
+			[172561830] = true,
+			[90516804] = true
 		}
 	},
 	log_chat = -1001057801239,
-	channel = '@groupbutler_ch', --channel username with the '@'
-	help_group = 'https://telegram.me/joinchat/CHYUej9jFxFN12MQqrLnUg', --group link, not username!
+	channel = '@forcetg_ch', --channel username with the '@'
+	help_group = 'https://telegram.me/joinchat/BWUtRD-tcJNdB9kr5meAcw', --group link, not username!
 	languages = 'languages.lua',
 	plugins = {
 		'onmessage.lua', --THIS HAVE TO BE THE FIRST: IF AN USER IS SPAMMING/IS BLOCKED, THE BOT WON'T GO THROUGH PLUGINS
